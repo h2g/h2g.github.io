@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://h2g.github.io/sitemap.xml

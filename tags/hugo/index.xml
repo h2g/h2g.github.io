@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 常常喜樂</title>
+    <link>https://h2g.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on 常常喜樂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Nov 2018 14:21:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://h2g.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo 安裝說明</title>
+      <link>https://h2g.github.io/post/hugo/hugo-install/</link>
+      <pubDate>Sun, 25 Nov 2018 14:21:20 +0800</pubDate>
+      
+      <guid>https://h2g.github.io/post/hugo/hugo-install/</guid>
+      <description>安裝版本網址 Step 1 安裝&amp;amp;解壓 以 Windows 64 bits 為例: 選擇 hugo_0.52_Windows-64bit.zip 按右鍵另存新檔. 解壓到電腦. Step 2 設定環境變數 加入環境變數 Step 3 新建一個 local repository (或 project, blog, web) 執行</description>
+    </item>
+    
+  </channel>
+</rss>

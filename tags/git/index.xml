@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on 常常喜樂</title>
+    <link>https://h2g.github.io/tags/git/</link>
+    <description>Recent content in Git on 常常喜樂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Nov 2018 14:21:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://h2g.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>git 安裝說明</title>
+      <link>https://h2g.github.io/post/git/git-install/</link>
+      <pubDate>Sun, 25 Nov 2018 14:21:20 +0800</pubDate>
+      
+      <guid>https://h2g.github.io/post/git/git-install/</guid>
+      <description>安裝版本網址 以 Windows 64 bits 為例: 選擇 64-bit Git for Windows Portable 按右鍵另存新檔. 解壓到電腦.</description>
+    </item>
+    
+  </channel>
+</rss>
