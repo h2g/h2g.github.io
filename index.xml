@@ -20,31 +20,57 @@
       
         <description>
 
-&lt;h2 id=&#34;線上聖經&#34;&gt;線上聖經&lt;/h2&gt;
+&lt;h2 id=&#34;聖經&#34;&gt;聖經&lt;/h2&gt;
+
+&lt;h3 id=&#34;a-href-https-thingclear-com-bible-vol-php-lng-b5-target-blank-聖經線上閱讀及查訽-a&#34;&gt;&lt;a href=&#34;https://thingclear.com/Bible/vol.php?_Lng=B5&#34; target=&#34;_blank&#34;&gt;聖經線上閱讀及查訽&lt;/a&gt;&lt;/h3&gt;
 
 &lt;h3 id=&#34;a-href-http-cb-fhl-net-target-blank-台灣聖經公會聖經網站-a&#34;&gt;&lt;a href=&#34;http://cb.fhl.net/&#34; target=&#34;_blank&#34;&gt;台灣聖經公會聖經網站&lt;/a&gt;&lt;/h3&gt;
 
 &lt;h3 id=&#34;a-href-https-www-biblegateway-com-target-blank-biblegateway-a&#34;&gt;&lt;a href=&#34;https://www.biblegateway.com/&#34; target=&#34;_blank&#34;&gt;BibleGateway&lt;/a&gt;&lt;/h3&gt;
 
-&lt;h2 id=&#34;離線聖經&#34;&gt;離線聖經&lt;/h2&gt;
-
 &lt;h3 id=&#34;a-href-http-springbible-fhl-net-offlinebible-offline-html-target-blank-離線聖經查詢系統-a&#34;&gt;&lt;a href=&#34;http://springbible.fhl.net/OfflineBible/offline.html&#34; target=&#34;_blank&#34;&gt;離線聖經查詢系統&lt;/a&gt;&lt;/h3&gt;
-
-&lt;h2 id=&#34;原文研經工具&#34;&gt;原文研經工具&lt;/h2&gt;
 
 &lt;h3 id=&#34;a-href-http-a2z-fhl-net-php-parsing-php-engs-gen-chap-1-sec-1-target-blank-cbol-舊約-parsing-系統-a&#34;&gt;&lt;a href=&#34;http://a2z.fhl.net/php/parsing.php?engs=Gen&amp;chap=1&amp;sec=1&#34; target=&#34;_blank&#34;&gt;CBOL 舊約 Parsing 系統&lt;/a&gt;&lt;/h3&gt;
 
 &lt;h3 id=&#34;a-href-https-bible-fhl-net-new-fhlwhparsing-php-engs-matt-chap-1-sec-1-target-blank-cbol-新約-parsing-系統-a&#34;&gt;&lt;a href=&#34;https://bible.fhl.net/new/fhlwhparsing.php?engs=Matt&amp;chap=1&amp;sec=1&#34; target=&#34;_blank&#34;&gt;CBOL 新約 Parsing 系統&lt;/a&gt;&lt;/h3&gt;
 
-&lt;h2 id=&#34;聖詩&#34;&gt;聖詩&lt;/h2&gt;
-
-&lt;h3 id=&#34;a-href-http-www-hymncompanions-org-index2-php-target-blank-荒漠甘泉-樂侶-a&#34;&gt;&lt;a href=&#34;http://www.hymncompanions.org/index2.php&#34; target=&#34;_blank&#34;&gt;荒漠甘泉  樂侶&lt;/a&gt;&lt;/h3&gt;
-
-&lt;h2 id=&#34;聖經原文學習&#34;&gt;聖經原文學習&lt;/h2&gt;
-
 &lt;h3 id=&#34;a-href-http-hebrew-fhl-net-target-blank-希伯來文教室-a&#34;&gt;&lt;a href=&#34;http://hebrew.fhl.net/&#34; target=&#34;_blank&#34;&gt;希伯來文教室&lt;/a&gt;&lt;/h3&gt;
 
 &lt;h3 id=&#34;a-href-http-www-chioulaoshi-org-bgreek-index-html-target-blank-新約希臘文-a&#34;&gt;&lt;a href=&#34;http://www.chioulaoshi.org/BGreek/index.html&#34; target=&#34;_blank&#34;&gt;新約希臘文&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;a-href-http-www-hymncompanions-org-index2-php-target-blank-荒漠甘泉-樂侶-a&#34;&gt;&lt;a href=&#34;http://www.hymncompanions.org/index2.php&#34; target=&#34;_blank&#34;&gt;荒漠甘泉  樂侶&lt;/a&gt;&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;開源-免費-portable-軟體&#34;&gt;開源/免費/Portable 軟體&lt;/h2&gt;
+
+&lt;h3 id=&#34;a-href-https-free-com-tw-target-blank-免費資源網路社群-a&#34;&gt;&lt;a href=&#34;https://free.com.tw/&#34; target=&#34;_blank&#34;&gt;免費資源網路社群&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;a-href-https-portableapps-com-zh-tw-target-blank-portableapps-a&#34;&gt;&lt;a href=&#34;https://portableapps.com/zh-tw&#34; target=&#34;_blank&#34;&gt;PortableApps&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://portableapps.com/apps/office/libreoffice_portable&#34; target=&#34;_blank&#34;&gt;LibreOffice Portable&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://portableapps.com/apps/office/openoffice_portable&#34; target=&#34;_blank&#34;&gt;Apache OpenOffice Portable&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;線上工具&#34;&gt;線上工具&lt;/h2&gt;
+
+&lt;h3 id=&#34;a-href-https-qr-ioi-tw-zh-target-blank-二維條碼-qr-code-產生器-a&#34;&gt;&lt;a href=&#34;https://qr.ioi.tw/zh/&#34; target=&#34;_blank&#34;&gt;二維條碼 QR Code 產生器&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;a-href-https-www-favicon-cc-target-blank-favicon-編輯-a&#34;&gt;&lt;a href=&#34;https://www.favicon.cc/&#34; target=&#34;_blank&#34;&gt;favicon 編輯&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;a-href-http-www-aigei-com-bgremover-target-blank-圖片去背-a&#34;&gt;&lt;a href=&#34;http://www.aigei.com/bgremover&#34; target=&#34;_blank&#34;&gt;圖片去背&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;a-href-https-mp3cut-net-tw-target-blank-影音分割合併轉換-a&#34;&gt;&lt;a href=&#34;https://mp3cut.net/tw/&#34; target=&#34;_blank&#34;&gt;影音分割合併轉換&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;a-href-https-pdf-io-tw-target-blank-pdf-分割壓縮轉換-a&#34;&gt;&lt;a href=&#34;https://pdf.io/tw/&#34; target=&#34;_blank&#34;&gt;pdf 分割壓縮轉換&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;a-href-http-kej-tw-flvretriever-target-blank-youtube-檔案-下載-a&#34;&gt;&lt;a href=&#34;http://kej.tw/flvretriever/&#34; target=&#34;_blank&#34;&gt;YouTube 檔案 下載&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;a-href-https-www-onlinevideoconverter-com-zh-youtube-converter-target-blank-youtube-下載-轉換-a&#34;&gt;&lt;a href=&#34;https://www.onlinevideoconverter.com/zh/youtube-converter&#34; target=&#34;_blank&#34;&gt;YouTube 下載/轉換&lt;/a&gt;&lt;/h3&gt;
+
+&lt;hr /&gt;
 </description>
       
     </item>
@@ -118,7 +144,7 @@
       
         <description>
 
-&lt;h3 id=&#34;安裝版本網址-https-github-com-gohugoio-hugo-releases-hugo-安裝&#34;&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34; title=&#34;Hugo 安裝&#34;&gt;安裝版本網址&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;安裝版本網址-https-github-com-gohugoio-hugo-releases-hugo-安裝網址連結&#34;&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34; title=&#34;Hugo 安裝網址連結&#34;&gt;安裝版本網址&lt;/a&gt;&lt;/h3&gt;
 
 &lt;h3 id=&#34;step-1-安裝-解壓&#34;&gt;Step 1 安裝&amp;amp;解壓&lt;/h3&gt;
 
@@ -129,11 +155,11 @@
 
 &lt;h3 id=&#34;step-2-設定環境變數&#34;&gt;Step 2 設定環境變數&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;../windows/env-var.md&#34;&gt;加入環境變數&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://joy.nctu.me/post/windows/env-var/&#34;&gt;加入環境變數&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;step-3-新建一個-local-repository-或-project-blog-web&#34;&gt;Step 3 新建一個 local repository (或 project, blog, web)&lt;/h3&gt;
 
-&lt;p&gt;執行 git-bash.exe ( 在 &lt;a href=&#34;../git/git-install.md&#34;&gt;git 安裝&lt;/a&gt; 之後有的可執行檔 )&lt;/p&gt;
+&lt;p&gt;執行 git-bash.exe ( 在 &lt;a href=&#34;https://joy.nctu.me/post/git/git-install/&#34;&gt;git 安裝&lt;/a&gt; 之後有的可執行檔 )&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -148,6 +174,16 @@ hugo new site xxx
 &lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; xxx&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+&lt;p&gt;資料夾配置:&lt;br /&gt;
+archetypes 放置生成文章的配置。&lt;br /&gt;
+content 放置 &lt;code&gt;文章&lt;/code&gt; 。&lt;code&gt;在其 post 下&lt;/code&gt;&lt;br /&gt;
+data 放置一些參數。&lt;br /&gt;
+layouts 放置網頁排版相關檔案。&lt;code&gt;版面頭尾&lt;/code&gt;&lt;br /&gt;
+static 放置 css, js, 圖。&lt;code&gt;favicon, 附檔, 圖檔在其 images 下&lt;/code&gt;&lt;br /&gt;
+themes 放置主題相關檔案。&lt;br /&gt;
+config.toml 放置網站的設定。&lt;br /&gt;
+&lt;strong&gt;&lt;em&gt;md文章連結md文章, 直接連其網址&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
 &lt;h3 id=&#34;step-4-使用者及email&#34;&gt;Step 4 使用者及email&lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -169,14 +205,10 @@ git config --global user.email &lt;span class=&#34;s2&#34;&gt;&amp;#34;eee@gmail
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;git init
-
 git remote add origin https://github.com/uuu/rrr.git
-
 git submodule add -b master https://github.com/xianmin/hugo-theme-jane.git themes/jane&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;

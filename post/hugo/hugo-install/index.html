@@ -69,7 +69,7 @@
 
 <meta itemprop="datePublished" content="2018-11-25T14:21:20&#43;08:00" />
 <meta itemprop="dateModified" content="2018-11-25T14:21:20&#43;08:00" />
-<meta itemprop="wordCount" content="215">
+<meta itemprop="wordCount" content="324">
 
 
 
@@ -332,7 +332,7 @@
     <div class="post-content">
       
 
-<h3 id="安裝版本網址-https-github-com-gohugoio-hugo-releases-hugo-安裝"><a href="https://github.com/gohugoio/hugo/releases" title="Hugo 安裝">安裝版本網址</a></h3>
+<h3 id="安裝版本網址-https-github-com-gohugoio-hugo-releases-hugo-安裝網址連結"><a href="https://github.com/gohugoio/hugo/releases" title="Hugo 安裝網址連結">安裝版本網址</a></h3>
 
 <h3 id="step-1-安裝-解壓">Step 1 安裝&amp;解壓</h3>
 
@@ -343,11 +343,11 @@
 
 <h3 id="step-2-設定環境變數">Step 2 設定環境變數</h3>
 
-<p><a href="../windows/env-var.md">加入環境變數</a></p>
+<p><a href="https://joy.nctu.me/post/windows/env-var/">加入環境變數</a></p>
 
 <h3 id="step-3-新建一個-local-repository-或-project-blog-web">Step 3 新建一個 local repository (或 project, blog, web)</h3>
 
-<p>執行 git-bash.exe ( 在 <a href="../git/git-install.md">git 安裝</a> 之後有的可執行檔 )</p>
+<p>執行 git-bash.exe ( 在 <a href="https://joy.nctu.me/post/git/git-install/">git 安裝</a> 之後有的可執行檔 )</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code class="language-bash" data-lang="bash"><span class="lnt">1
@@ -362,6 +362,16 @@ hugo new site xxx
 <span class="nb">cd</span> xxx</code></pre></td></tr></table>
 </div>
 </div>
+<p>資料夾配置:<br />
+archetypes 放置生成文章的配置。<br />
+content 放置 <code>文章</code> 。<code>在其 post 下</code><br />
+data 放置一些參數。<br />
+layouts 放置網頁排版相關檔案。<code>版面頭尾</code><br />
+static 放置 css, js, 圖。<code>favicon, 附檔, 圖檔在其 images 下</code><br />
+themes 放置主題相關檔案。<br />
+config.toml 放置網站的設定。<br />
+<strong><em>md文章連結md文章, 直接連其網址</em></strong></p>
+
 <h3 id="step-4-使用者及email">Step 4 使用者及email</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -383,14 +393,10 @@ git config --global user.email <span class="s2">&#34;eee@gmail.com&#34;</span></
 <pre class="chroma"><code class="language-bash" data-lang="bash"><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-bash" data-lang="bash">git init
-
 git remote add origin https://github.com/uuu/rrr.git
-
 git submodule add -b master https://github.com/xianmin/hugo-theme-jane.git themes/jane</code></pre></td></tr></table>
 </div>
 </div>
