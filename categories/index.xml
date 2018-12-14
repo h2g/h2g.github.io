@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>常常喜樂</title>
+    <title>Categories on 常常喜樂</title>
     <link>https://h2g.github.io/categories/</link>
-    <description>Recent content on 常常喜樂</description>
+    <description>Recent content in Categories on 常常喜樂</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Nov 2018 14:21:20 +0800</lastBuildDate>
@@ -12,30 +12,12 @@
     
     
     <item>
-      <title>Hugo 安裝說明</title>
-      <link>https://h2g.github.io/post/hugo/hugo-install/</link>
+      <title></title>
+      <link>https://h2g.github.io/categories/</link>
       <pubDate>Sun, 25 Nov 2018 14:21:20 +0800</pubDate>
       
-      <guid>https://h2g.github.io/post/hugo/hugo-install/</guid>
-      <description>安裝版本網址 Step 1 安裝&amp;amp;解壓 以 Windows 64 bits 為例: 選擇 hugo_0.52_Windows-64bit.zip 按右鍵另存新檔. 解壓到電腦. Step 2 設定環境變數 加入環境變數 Step 3 新建一個 local repository (或 project, blog, web) 執行</description>
-    </item>
-    
-    <item>
-      <title>Windows 環境變數</title>
-      <link>https://h2g.github.io/post/windows/env-var/</link>
-      <pubDate>Sun, 25 Nov 2018 14:21:20 +0800</pubDate>
-      
-      <guid>https://h2g.github.io/post/windows/env-var/</guid>
-      <description>位置 [系統]／[系統資訊]／[進階系統設定]／[進階]／[環境變數]／[user的使用者變數] 新增 編輯 刪除 [系統]／[系統資訊]／[進階系統</description>
-    </item>
-    
-    <item>
-      <title>git 安裝說明</title>
-      <link>https://h2g.github.io/post/git/git-install/</link>
-      <pubDate>Sun, 25 Nov 2018 14:21:20 +0800</pubDate>
-      
-      <guid>https://h2g.github.io/post/git/git-install/</guid>
-      <description>安裝版本網址 以 Windows 64 bits 為例: 選擇 64-bit Git for Windows Portable 按右鍵另存新檔. 解壓到電腦.</description>
+      <guid>https://h2g.github.io/categories/</guid>
+      <description></description>
     </item>
     
   </channel>
