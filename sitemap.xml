@@ -17,6 +17,20 @@
   </url>
   
   <url>
+    <loc>https://h2g.github.io/post/greek/0001-letter/</loc>
+    <lastmod>2018-12-18T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://h2g.github.io/post/hebrew/0001-letter/</loc>
+    <lastmod>2018-12-17T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://h2g.github.io/post/hugo/hugo-install/</loc>
     <lastmod>2018-11-25T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -59,6 +73,34 @@
   </url>
   
   <url>
+    <loc>https://h2g.github.io/tags/greek/</loc>
+    <lastmod>2018-12-18T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h2g.github.io/categories/greek/</loc>
+    <lastmod>2018-12-18T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h2g.github.io/tags/hebrew/</loc>
+    <lastmod>2018-12-17T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h2g.github.io/categories/hebrew/</loc>
+    <lastmod>2018-12-17T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://h2g.github.io/tags/hugo/</loc>
     <lastmod>2018-11-25T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -67,7 +109,7 @@
   
   <url>
     <loc>https://h2g.github.io/post/</loc>
-    <lastmod>2018-11-25T14:21:20+08:00</lastmod>
+    <lastmod>2018-12-18T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
