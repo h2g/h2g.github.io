@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on 常常喜樂</title>
+    <link>https://h2g.github.io/categories/windows/</link>
+    <description>Recent content in Windows on 常常喜樂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Nov 2018 14:21:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://h2g.github.io/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Windows 環境變數</title>
+      <link>https://h2g.github.io/post/windows/env-var/</link>
+      <pubDate>Sun, 25 Nov 2018 14:21:20 +0800</pubDate>
+      
+      <guid>https://h2g.github.io/post/windows/env-var/</guid>
+      <description>位置 [系統]／[系統資訊]／[進階系統設定]／[進階]／[環境變數]／[user的使用者變數] 新增 編輯 刪除 [系統]／[系統資訊]／[進階系統</description>
+    </item>
+    
+  </channel>
+</rss>

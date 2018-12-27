@@ -6,17 +6,26 @@
     <description>Recent content in Categories on 常常喜樂</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Nov 2018 14:21:20 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Dec 2018 14:21:20 +0800</lastBuildDate>
     
 	<atom:link href="https://h2g.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://h2g.github.io/categories/</link>
+      <title>Bible Study</title>
+      <link>https://h2g.github.io/categories/bible-study/</link>
+      <pubDate>Thu, 27 Dec 2018 14:21:20 +0800</pubDate>
+      
+      <guid>https://h2g.github.io/categories/bible-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://h2g.github.io/categories/git/</link>
       <pubDate>Sun, 25 Nov 2018 14:21:20 +0800</pubDate>
       
-      <guid>https://h2g.github.io/categories/</guid>
+      <guid>https://h2g.github.io/categories/git/</guid>
       <description></description>
     </item>
     
@@ -35,6 +44,24 @@
       <pubDate>Wed, 19 Dec 2018 14:21:20 +0800</pubDate>
       
       <guid>https://h2g.github.io/categories/hebrew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://h2g.github.io/categories/hugo/</link>
+      <pubDate>Sun, 25 Nov 2018 14:21:20 +0800</pubDate>
+      
+      <guid>https://h2g.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://h2g.github.io/categories/windows/</link>
+      <pubDate>Sun, 25 Nov 2018 14:21:20 +0800</pubDate>
+      
+      <guid>https://h2g.github.io/categories/windows/</guid>
       <description></description>
     </item>
     
