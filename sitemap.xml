@@ -17,6 +17,27 @@
   </url>
   
   <url>
+    <loc>https://h2g.github.io/post/biblestudy/%E4%BD%95%E8%AC%82%E8%AA%8D%E8%AD%98%E7%A5%9E/</loc>
+    <lastmod>2019-01-04T15:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://h2g.github.io/post/css/background/</loc>
+    <lastmod>2019-01-03T15:10:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://h2g.github.io/post/html/colorcode/</loc>
+    <lastmod>2019-01-03T14:22:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://h2g.github.io/post/greek/mercy/</loc>
     <lastmod>2018-12-28T14:22:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -123,21 +144,35 @@
   
   <url>
     <loc>https://h2g.github.io/tags/bible-study/</loc>
-    <lastmod>2018-12-27T15:21:20+08:00</lastmod>
+    <lastmod>2019-01-04T15:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://h2g.github.io/categories/bible-study/</loc>
-    <lastmod>2018-12-27T15:21:20+08:00</lastmod>
+    <lastmod>2019-01-04T15:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://h2g.github.io/categories/</loc>
-    <lastmod>2018-12-27T15:21:20+08:00</lastmod>
+    <lastmod>2019-01-04T15:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h2g.github.io/tags/css/</loc>
+    <lastmod>2019-01-03T15:10:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h2g.github.io/categories/css/</loc>
+    <lastmod>2019-01-03T15:10:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -185,6 +220,20 @@
   </url>
   
   <url>
+    <loc>https://h2g.github.io/tags/html/</loc>
+    <lastmod>2019-01-03T14:22:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h2g.github.io/categories/html/</loc>
+    <lastmod>2019-01-03T14:22:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://h2g.github.io/tags/hugo/</loc>
     <lastmod>2018-11-25T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,14 +249,14 @@
   
   <url>
     <loc>https://h2g.github.io/post/</loc>
-    <lastmod>2018-12-28T14:22:20+08:00</lastmod>
+    <lastmod>2019-01-04T15:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://h2g.github.io/tags/</loc>
-    <lastmod>2018-12-27T15:21:20+08:00</lastmod>
+    <lastmod>2019-01-04T15:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -262,6 +311,13 @@
   </url>
   
   <url>
+    <loc>https://h2g.github.io/tags/%E5%BD%8C%E8%BF%A6%E6%9B%B8/</loc>
+    <lastmod>2019-01-04T15:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://h2g.github.io/tags/%E6%8F%90%E5%A4%9A%E6%9B%B8/</loc>
     <lastmod>2018-12-27T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -285,6 +341,13 @@
   <url>
     <loc>https://h2g.github.io/tags/%E7%BE%85%E9%A6%AC%E6%9B%B8/</loc>
     <lastmod>2018-12-28T14:22:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h2g.github.io/tags/%E8%80%B6%E5%88%A9%E7%B1%B3%E6%9B%B8/</loc>
+    <lastmod>2019-01-04T15:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

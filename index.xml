@@ -89,6 +89,10 @@
 &lt;h3 id=&#34;a-href-https-www-onlinevideoconverter-com-zh-youtube-converter-target-blank-youtube-下載-轉換-a&#34;&gt;&lt;a href=&#34;https://www.onlinevideoconverter.com/zh/youtube-converter&#34; target=&#34;_blank&#34;&gt;YouTube 下載/轉換&lt;/a&gt;&lt;/h3&gt;
 
 &lt;hr /&gt;
+
+&lt;h2 id=&#34;線上學習&#34;&gt;線上學習&lt;/h2&gt;
+
+&lt;h3 id=&#34;a-href-http-www-w3school-com-cn-target-blank-w3school-a&#34;&gt;&lt;a href=&#34;http://www.w3school.com.cn/&#34; target=&#34;_blank&#34;&gt;W3school&lt;/a&gt;&lt;/h3&gt;
 </description>
       
     </item>
@@ -149,6 +153,764 @@
 
 &lt;hr /&gt;
 &lt;/blockquote&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>何謂認識神</title>
+      <link>https://h2g.github.io/post/biblestudy/%E4%BD%95%E8%AC%82%E8%AA%8D%E8%AD%98%E7%A5%9E/</link>
+      <pubDate>Fri, 04 Jan 2019 15:21:20 +0800</pubDate>
+      
+      <guid>https://h2g.github.io/post/biblestudy/%E4%BD%95%E8%AC%82%E8%AA%8D%E8%AD%98%E7%A5%9E/</guid>
+      
+        <description>
+
+&lt;h2 id=&#34;何謂認識神&#34;&gt;何謂認識神?&lt;/h2&gt;
+
+&lt;h3 id=&#34;他為困苦和窮乏人伸冤-那時就得了福樂-認識我不在乎此嗎-這是耶和華說的-耶利米書-22-16&#34;&gt;他為困苦和窮乏人伸冤，那時就得了福樂。認識我不在乎此嗎？這是耶和華說的。(耶利米書 22:16)&lt;/h3&gt;
+
+&lt;h3 id=&#34;世人哪-耶和華已指示你何為善-他向你所要的是什麼呢-只要你行公義-好憐憫-存謙卑的心-與你的神同行-彌迦書-6-8&#34;&gt;世人哪，耶和華已指示你何為善。他向你所要的是什麼呢？只要你行公義，好憐憫，存謙卑的心，與你的神同行。(彌迦書 6:8)&lt;/h3&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>CSS - 背景顏色 &amp; 背景圖片</title>
+      <link>https://h2g.github.io/post/css/background/</link>
+      <pubDate>Thu, 03 Jan 2019 15:10:20 +0800</pubDate>
+      
+      <guid>https://h2g.github.io/post/css/background/</guid>
+      
+        <description>
+
+&lt;h2 id=&#34;一-背景顏色-background-color&#34;&gt;一、背景顏色 background-color&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&amp;lt;div style=&amp;#34;background-color:#FFBB73&amp;#34;&amp;gt;CSS background-color #FFBB73&amp;lt;/div&amp;gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;background-color:#FFBB73&#34;&gt;CSS background-color #FFBB73&lt;/div&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&amp;lt;div style=&amp;#34;background-color:pink&amp;#34;&amp;gt;CSS background-color pink&amp;lt;/div&amp;gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;background-color:pink&#34;&gt;CSS background-color pink&lt;/div&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&amp;lt;div style=&amp;#34;background-color:rgb(232,106,192)&amp;#34;&amp;gt;CSS background-color RGB 232,106,192&amp;lt;/div&amp;gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;background-color:rgb(232,106,192)&#34;&gt;CSS background-color RGB 232,106,192&lt;/div&gt;  
+
+&lt;h2 id=&#34;二-背景圖片-background-image&#34;&gt;二、背景圖片 background-image&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;36
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;37
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;38
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;39
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;40
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;41
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;42
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;43
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;44
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;45
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;46
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;47
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;48
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;49
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;1. 網頁背景圖片
+
+&amp;lt;html&amp;gt;
+
+&amp;lt;head&amp;gt;
+&amp;lt;style type=&amp;#34;text/css&amp;#34;&amp;gt;
+body
+{ 
+background-image: 
+url(&amp;#39;要顯示的圖片網址&amp;#39;);
+background-repeat: repeat-x repeat-y;
+background-color: 背景顏色;
+}
+&amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+
+&amp;lt;body&amp;gt;
+&amp;lt;/body&amp;gt;
+
+&amp;lt;/html&amp;gt;
+
+2. 區塊背景圖片
+
+&amp;lt;style&amp;gt;
+#DIV1{
+width:300px;
+height:200px;
+background-color:lightskyblue;　//淡藍色背景
+border:1px #ccc solid;
+}
+#DIV2{
+width:300px;
+height:200px;
+background-image:url(/images/b01.png);　//插入背景圖片
+background-color:lightskyblue;　//淡藍色背景
+border:1px #ccc solid;
+}
+&amp;lt;/style&amp;gt;
+&amp;lt;div id=&amp;#34;DIV1&amp;#34;&amp;gt;
+這是沒套用背景圖片的 DIV 區塊
+&amp;lt;/div&amp;gt;
+&amp;lt;div id=&amp;#34;DIV2&amp;#34;&amp;gt;
+這是有套用背景圖片的 DIV 區塊
+&amp;lt;/div&amp;gt;
+
+--- 簡言之 ---
+&amp;lt;div style=&amp;#34;background-image:url(背景圖片);width:380px;height:120px;&amp;#34;&amp;gt;
+這個 DIV 區塊使用 300x120 的背景圖片
+&amp;lt;/div&amp;gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;style&gt;
+#DIV1{
+width:300px;
+height:200px;
+background-color:lightskyblue;　//淡藍色背景
+border:1px #ccc solid;
+}
+#DIV2{
+width:300px;
+height:200px;
+background-image:url(/images/b01.png);　//插入背景圖片
+background-color:lightskyblue;　//淡藍色背景
+border:1px #ccc solid;
+}
+&lt;/style&gt;
+&lt;div id=&#34;DIV1&#34;&gt;
+這是沒套用背景圖片的 DIV 區塊
+&lt;/div&gt;
+&lt;div id=&#34;DIV2&#34;&gt;
+這是有套用背景圖片的 DIV 區塊
+&lt;/div&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Html - 色碼表</title>
+      <link>https://h2g.github.io/post/html/colorcode/</link>
+      <pubDate>Thu, 03 Jan 2019 14:22:20 +0800</pubDate>
+      
+      <guid>https://h2g.github.io/post/html/colorcode/</guid>
+      
+        <description>
+
+&lt;h2 id=&#34;rgb-color-images-rgb-color-png-rgb-color&#34;&gt;&lt;img src=&#34;https://h2g.github.io/images/rgb-color.png&#34; alt=&#34;RGB color&#34; title=&#34;RGB color&#34; /&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;color-code-table&#34;&gt;Color code table&lt;/h2&gt;
+
+&lt;p&gt;&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;色碼表&lt;/title&gt;
+&lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=UTF-8&#34;&gt;
+&lt;/head&gt;
+&lt;body bgcolor=&#34;#ffffff&#34;&gt;
+&lt;center&gt;&lt;h2&gt;色 碼 表&lt;/h2&gt;
+&lt;p&gt;以十六進位值排列&lt;br&gt;&amp;lt;font color=&amp;ldquo;#RRGGBB&amp;rdquo;&amp;gt;&lt;/p&gt;
+&lt;table border=0&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFFFFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFFFFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#DDDDDD&#34; height=&#34;30&#34;&gt;&lt;font&gt;#DDDDDD&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#AAAAAA&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#AAAAAA&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#888888&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#888888&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#666666&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#666666&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#444444&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#444444&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#000000&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#000000&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFB7DD&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFB7DD&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FF88C2&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FF88C2&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FF44AA&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#FF44AA &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FF0088&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#FF0088 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#C10066&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#C10066 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#A20055&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#A20055 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#8C0044&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#8C0044 &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFCCCC&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFCCCC&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FF8888&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FF8888&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FF3333&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#FF3333 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FF0000&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#FF0000 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#CC0000&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#CC0000 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#AA0000&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#AA0000 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#880000&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#880000 &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFC8B4&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFC8B4&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFA488&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFA488&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FF7744&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#FF7744 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FF5511&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#FF5511 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#E63F00&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#E63F00 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#C63300&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#C63300 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#A42D00&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#A42D00 &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFDDAA&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFDDAA&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFBB66&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFBB66&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFAA33&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFAA33&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FF8800&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#FF8800 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#EE7700&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#EE7700 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#CC6600&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#CC6600 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#BB5500&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#BB5500 &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFEE99&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFEE99&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFDD55&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFDD55&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFCC22&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFCC22&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFBB00&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#FFBB00 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#DDAA00&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#DDAA00 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#AA7700&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#AA7700 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#886600&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#886600 &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFFFBB&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFFFBB&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFFF77&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFFF77&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFFF33&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFFF33&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFFF00&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFFF00&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#EEEE00&#34; height=&#34;30&#34;&gt;&lt;font&gt;#EEEE00&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#BBBB00&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#BBBB00&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#888800&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#888800&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#EEFFBB&#34; height=&#34;30&#34;&gt;&lt;font&gt;#EEFFBB&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#DDFF77&#34; height=&#34;30&#34;&gt;&lt;font&gt;#DDFF77&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#CCFF33&#34; height=&#34;30&#34;&gt;&lt;font&gt;#CCFF33&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#BBFF00&#34; height=&#34;30&#34;&gt;&lt;font&gt;#BBFF00&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#99DD00&#34; height=&#34;30&#34;&gt;&lt;font&gt;#99DD00&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#88AA00&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#88AA00&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#668800&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#668800&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#CCFF99&#34; height=&#34;30&#34;&gt;&lt;font&gt;#CCFF99&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#BBFF66&#34; height=&#34;30&#34;&gt;&lt;font&gt;#BBFF66&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#99FF33&#34; height=&#34;30&#34;&gt;&lt;font&gt;#99FF33&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#77FF00&#34; height=&#34;30&#34;&gt;&lt;font&gt;#77FF00&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#66DD00&#34; height=&#34;30&#34;&gt;&lt;font&gt;#66DD00&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#55AA00&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#55AA00&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#227700&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#227700&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#99FF99&#34; height=&#34;30&#34;&gt;&lt;font&gt;#99FF99&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#66FF66&#34; height=&#34;30&#34;&gt;&lt;font&gt;#66FF66&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#33FF33&#34; height=&#34;30&#34;&gt;&lt;font&gt;#33FF33&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#00FF00&#34; height=&#34;30&#34;&gt;&lt;font&gt;#00FF00&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#00DD00&#34; height=&#34;30&#34;&gt;&lt;font&gt;#00DD00&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#00AA00&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#00AA00&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#008800&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#008800&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#BBFFEE&#34; height=&#34;30&#34;&gt;&lt;font&gt;#BBFFEE&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#77FFCC&#34; height=&#34;30&#34;&gt;&lt;font&gt;#77FFCC&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#33FFAA&#34; height=&#34;30&#34;&gt;&lt;font&gt;#33FFAA&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#00FF99&#34; height=&#34;30&#34;&gt;&lt;font&gt;#00FF99&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#00DD77&#34; height=&#34;30&#34;&gt;&lt;font&gt;#00DD77&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#00AA55&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#00AA55&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#008844&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#008844&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#AAFFEE&#34; height=&#34;30&#34;&gt;&lt;font&gt;#AAFFEE&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#77FFEE&#34; height=&#34;30&#34;&gt;&lt;font&gt;#77FFEE&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#33FFDD&#34; height=&#34;30&#34;&gt;&lt;font&gt;#33FFDD&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#00FFCC&#34; height=&#34;30&#34;&gt;&lt;font&gt;#00FFCC&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#00DDAA&#34; height=&#34;30&#34;&gt;&lt;font&gt;#00DDAA&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#00AA88&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#00AA88&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#008866&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#008866&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#99FFFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#99FFFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#66FFFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#66FFFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#33FFFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#33FFFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#00FFFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#00FFFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#00DDDD&#34; height=&#34;30&#34;&gt;&lt;font&gt;#00DDDD&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#00AAAA&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#00AAAA&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#008888&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#008888&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#CCEEFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#CCEEFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#77DDFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#77DDFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#33CCFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#33CCFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#00BBFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#00BBFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#009FCC&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#009FCC&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#0088A8&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#0088A8&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#007799&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#007799&lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#CCDDFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#CCDDFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#99BBFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#99BBFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#5599FF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#5599FF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#0066FF&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#0066FF &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#0044BB&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#0044BB &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#003C9D&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#003C9D &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#003377&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#003377 &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#CCCCFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#CCCCFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#9999FF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#9999FF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#5555FF&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#5555FF &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#0000FF&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#0000FF &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#0000CC&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#0000CC &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#0000AA&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#0000AA &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#000088&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#000088 &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#CCBBFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#CCBBFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#9F88FF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#9F88FF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#7744FF&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#7744FF &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#5500FF&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#5500FF &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#4400CC&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#4400CC &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#2200AA&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#2200AA &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#220088&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#220088 &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#D1BBFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#D1BBFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#B088FF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#B088FF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#9955FF&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#9955FF &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#7700FF&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#7700FF &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#5500DD&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#5500DD &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#4400B3&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#4400B3 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#3A0088&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#3A0088 &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#E8CCFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#E8CCFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#D28EFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#D28EFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#B94FFF&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#B94FFF &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#9900FF&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#9900FF &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#7700BB&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#7700BB &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#66009D&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#66009D &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#550088&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#550088 &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#F0BBFF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#F0BBFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#E377FF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#E38EFF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#D93EFF&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#E93EFF &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#CC00FF&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#CC00FF &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#A500CC&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#A500CC &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#7A0099&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#7A0099 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#660077&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#660077 &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FFB3FF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FFB3FF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FF77FF&#34; height=&#34;30&#34;&gt;&lt;font&gt;#FF77FF&lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FF3EFF&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#FF3EFF &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#FF00FF&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#FF00FF &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#CC00CC&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#CC00CC &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#990099&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#990099 &lt;/font&gt;&lt;/td&gt;
+&lt;td width=&#34;95&#34; bgcolor=&#34;#770077&#34; height=&#34;30&#34;&gt;&lt;font color=&#34;#FFFFFF&#34;&gt;#770077 &lt;/font&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;以色系排列&lt;/p&gt;
+&lt;p&gt;紅&lt;br&gt;
+&lt;table border=0&gt;
+&lt;tr&gt;&lt;th width=&#34;130&#34;&gt;顏色名稱&lt;th width=&#34;80&#34;&gt;代碼&lt;th width=&#34;80&#34;&gt;&lt;p align=&#34;center&#34;&gt;顏色&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;maroon&lt;td&gt;#800000&lt;td bgcolor=&#34;#800000&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkred&lt;td&gt;#8B0000&lt;td bgcolor=&#34;#8b0000&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;brown&lt;td&gt;#A52A2A&lt;td bgcolor=&#34;#a52a2a&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;firebrick&lt;td&gt;#B22222&lt;td bgcolor=&#34;#b22222&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;crimson&lt;td&gt;#DC143C&lt;td bgcolor=&#34;#dc143c&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;red&lt;td&gt;#FF0000&lt;td bgcolor=&#34;#ff0000&#34;&gt;　&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;桃紅~紛紅&lt;br&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;th width=&#34;130&#34;&gt;顏色名稱&lt;th width=&#34;80&#34;&gt;代碼&lt;th width=&#34;80&#34;&gt;&lt;p align=&#34;center&#34;&gt;顏色&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;mediumvioletred&lt;td&gt;#C71585&lt;td bgcolor=&#34;#c71585&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;palevioletred&lt;td&gt;#D87093&lt;td bgcolor=&#34;#d87093&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;deeppink&lt;td&gt;#FF1493&lt;td bgcolor=&#34;#ff1493&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;fuchsia(magenta)&lt;td&gt;#FF00FF&lt;td bgcolor=&#34;#ff00ff&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;hotpink&lt;td&gt;#FF69B4&lt;td bgcolor=&#34;#ff69b4&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;pink&lt;td&gt;#FFC0CB&lt;td bgcolor=&#34;ffc0cb&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lightpink&lt;td&gt;#FFB6C1&lt;td bgcolor=&#34;#ffb6c1&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;mistyrose&lt;td&gt;#FFE4E1&lt;td bgcolor=&#34;#ffe4e1&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lavenderblush&lt;td&gt;#FFF0F5&lt;td bgcolor=&#34;#fff0f5&#34;&gt;　&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;紫&lt;br&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;th width=&#34;130&#34;&gt;顏色名稱&lt;th width=&#34;80&#34;&gt;代碼&lt;th width=&#34;80&#34;&gt;&lt;p align=&#34;center&#34;&gt;顏色&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;indigo&lt;td&gt;#4B0082&lt;td bgcolor=&#34;#4b0082&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;purple&lt;td&gt;#800080&lt;td bgcolor=&#34;#800080&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkmagenta&lt;td&gt;#8B008B&lt;td bgcolor=&#34;#8b008b&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkorchid&lt;td&gt;#9932CC&lt;td bgcolor=&#34;#9932cc&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;blueviolet&lt;td&gt;#8A2BE2&lt;td bgcolor=&#34;#8a2be2&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkviolet&lt;td&gt;#9400D3&lt;td bgcolor=&#34;#9400d3&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;slateblue&lt;td&gt;#6A5ACD&lt;td bgcolor=&#34;#6a5acd&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;mediumpurple&lt;td&gt;#9370DB&lt;td bgcolor=&#34;#9370db&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;mediumslateblue&lt;td&gt;#7B68EE&lt;td bgcolor=&#34;#7b68ee&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;mediumorchid&lt;td&gt;#BA55D3&lt;td bgcolor=&#34;#ba55d3&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;violet&lt;td&gt;#EE82EE&lt;td bgcolor=&#34;#ee82ee&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;plum&lt;td&gt;#DDA0DD&lt;td bgcolor=&#34;#dda0dd&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;thistle&lt;td&gt;#D8BFD8&lt;td bgcolor=&#34;#d8bfd8&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lavender&lt;td&gt;#E6E6FA&lt;td bgcolor=&#34;#e6e6fa&#34;&gt;　&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;褐~橘~米白&lt;br&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;th width=&#34;130&#34;&gt;顏色名稱&lt;th width=&#34;80&#34;&gt;代碼&lt;th width=&#34;80&#34;&gt;&lt;p align=&#34;center&#34;&gt;顏色&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;saddlebrown&lt;td&gt;#8B4513&lt;td bgcolor=&#34;#8b4513&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;sienna&lt;td&gt;#A0522D&lt;td bgcolor=&#34;#a0522d&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;chocolate&lt;td&gt;#D2691E&lt;td bgcolor=&#34;#d2691e&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;indianred&lt;td&gt;#CD5C5C&lt;td bgcolor=&#34;#cd5c5c&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;rosybrown&lt;td&gt;#BC8F8F&lt;td bgcolor=&#34;#bc8f8f&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lightcorol&lt;td&gt;#F08080&lt;td bgcolor=&#34;#f08080&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;salmon&lt;td&gt;#FA8072&lt;td bgcolor=&#34;#fa8072&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lightsalmon&lt;td&gt;#FFA07A&lt;td bgcolor=&#34;#ffa07a&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;orangered&lt;td&gt;#FF4500&lt;td bgcolor=&#34;#ff4500&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;tomato&lt;td&gt;#FF6347&lt;td bgcolor=&#34;#ff6347&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;coral&lt;td&gt;#FF7F50&lt;td bgcolor=&#34;#ff7f50&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkorange&lt;td&gt;#FF8C00&lt;td bgcolor=&#34;#ff8c00&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;sandybrown&lt;td&gt;#F4A460&lt;td bgcolor=&#34;#f4a460&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;peru&lt;td&gt;#CD853F&lt;td bgcolor=&#34;#cd853f&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;tan&lt;td&gt;#D2B48C&lt;td bgcolor=&#34;#d2b48c&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;burlywood&lt;td&gt;#DEB887&lt;td bgcolor=&#34;#deb887&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;wheat&lt;td&gt;#F5DEB3&lt;td bgcolor=&#34;#f5deb3&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;moccasin&lt;td&gt;#FFE4B5&lt;td bgcolor=&#34;#ffe4b5&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;navajowhite&lt;td&gt;#FFDEAD&lt;td bgcolor=&#34;#ffdead&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;peachpuff&lt;td&gt;#FFDAB9&lt;td bgcolor=&#34;#ffdab9&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;bisque&lt;td&gt;#FFE4C4&lt;td bgcolor=&#34;#ffe4c4&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;antuquewhite&lt;td&gt;#FAEBD7&lt;td bgcolor=&#34;#faebd7&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;papayawhip&lt;td&gt;#FFEFD5&lt;td bgcolor=&#34;#ffefd5&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;cornsilk&lt;td&gt;#FFF8DC&lt;td bgcolor=&#34;#fff8dc&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;oldlace&lt;td&gt;#FDF5E6&lt;td bgcolor=&#34;#fdf5e6&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;linen&lt;td&gt;#FAF0E6&lt;td bgcolor=&#34;#faf0e6&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;seashell&lt;td&gt;#FFF5EE&lt;td bgcolor=&#34;#fff5ee&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;snow&lt;td&gt;#FFFAFA&lt;td bgcolor=&#34;#fffafa&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;floralwhite&lt;td&gt;#FFFAF0&lt;td bgcolor=&#34;#fffaf0&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ivory&lt;td&gt;#FFFFF0&lt;td bgcolor=&#34;#fffff0&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;mintcream&lt;td&gt;#F5FFFA&lt;td bgcolor=&#34;#f5fffa&#34;&gt;　&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;金~黃&lt;br&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;th width=&#34;130&#34;&gt;顏色名稱&lt;th width=&#34;80&#34;&gt;代碼&lt;th width=&#34;80&#34;&gt;&lt;p align=&#34;center&#34;&gt;顏色&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkgoldenrod&lt;td&gt;#B8860B&lt;td bgcolor=&#34;#b8860b&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;goldenrod&lt;td&gt;#DAA520&lt;td bgcolor=&#34;#daa520&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;gold&lt;td&gt;#FFD700&lt;td bgcolor=&#34;#ffd700&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;yellow&lt;td&gt;#FFFF00&lt;td bgcolor=&#34;#ffff00&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkkhaki&lt;td&gt;#BDB76B&lt;td bgcolor=&#34;#bdb76b&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;khaki&lt;td&gt;#F0E68C&lt;td bgcolor=&#34;#f0e68c&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;palegoldenrod&lt;td&gt;#EEE8AA&lt;td bgcolor=&#34;#eee8aa&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;beige&lt;td&gt;#F5F5DC&lt;td bgcolor=&#34;#f5f5dc&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lemonchiffon&lt;td&gt;#FFFACD&lt;td bgcolor=&#34;#fffacd&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lightgoldenrodyellow&lt;td&gt;#FAFAD2&lt;td bgcolor=&#34;#fafad2&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lightyellow&lt;td&gt;#FFFFE0&lt;td bgcolor=&#34;#ffffe0&#34;&gt;　&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;綠&lt;br&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;th width=&#34;130&#34;&gt;顏色名稱&lt;th width=&#34;80&#34;&gt;代碼&lt;th width=&#34;80&#34;&gt;&lt;p align=&#34;center&#34;&gt;顏色&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkslategray&lt;td&gt;#2F4F4F&lt;td bgcolor=&#34;#2f4f4f&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkolivegreen&lt;td&gt;#556B2F&lt;td bgcolor=&#34;#556b2f&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;olive&lt;td&gt;#808000&lt;td bgcolor=&#34;#808000&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkgreen&lt;td&gt;#006400&lt;td bgcolor=&#34;#006400&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;forestgreen&lt;td&gt;#228B22&lt;td bgcolor=&#34;#228b22&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;seagreen&lt;td&gt;#2E8B57&lt;td bgcolor=&#34;#2e8b57&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;green(teal)&lt;td&gt;#008080&lt;td bgcolor=&#34;#008080&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lightseagreen&lt;td&gt;#20B2AA&lt;td bgcolor=&#34;#20b2aa&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;madiumaquamarine&lt;td&gt;#66CDAA&lt;td bgcolor=&#34;#66cdaa&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;mediumseagreen&lt;td&gt;#3CB371&lt;td bgcolor=&#34;#3cb371&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkseagreen&lt;td&gt;#8FBC8F&lt;td bgcolor=&#34;#8fbc8f&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;yellowgreen&lt;td&gt;#9ACD32&lt;td bgcolor=&#34;#9acd32&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;limegreen&lt;td&gt;#32CD32&lt;td bgcolor=&#34;#32cd32&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lime&lt;td&gt;#00FF00&lt;td bgcolor=&#34;#00ff00&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;chartreuse&lt;td&gt;#7FFF00&lt;td bgcolor=&#34;#7fff00&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lawngreen&lt;td&gt;#7CFC00&lt;td bgcolor=&#34;#7cfc00&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;greenyellow&lt;td&gt;#ADFF2F&lt;td bgcolor=&#34;#adff2f&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;mediumspringgreen&lt;td&gt;#00FA9A&lt;td bgcolor=&#34;#00fa9a&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;springgreen&lt;td&gt;#00FF7F&lt;td bgcolor=&#34;#00ff7f&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lightgreen&lt;td&gt;#90EE90&lt;td bgcolor=&#34;#90ee90&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;palegreen&lt;td&gt;#98F898&lt;td bgcolor=&#34;#98f898&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;aquamarine&lt;td&gt;#7FFFD4&lt;td bgcolor=&#34;#7fffd4&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;honeydew&lt;td&gt;#F0FFF0&lt;td bgcolor=&#34;#f0fff0&#34;&gt;　&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;藍&lt;br&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;th width=&#34;130&#34;&gt;顏色名稱&lt;th width=&#34;80&#34;&gt;代碼&lt;th width=&#34;80&#34;&gt;&lt;p align=&#34;center&#34;&gt;顏色&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;midnightblue&lt;td&gt;#191970&lt;td bgcolor=&#34;#191970&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;navy&lt;td&gt;#000080&lt;td bgcolor=&#34;#000080&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkblue&lt;td&gt;#00008B&lt;td bgcolor=&#34;#00008b&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkslateblue&lt;td&gt;#483D8B&lt;td bgcolor=&#34;#483d8b&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;mediumblue&lt;td&gt;#0000CD&lt;td bgcolor=&#34;#0000cd&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;royalblue&lt;td&gt;#4169E1&lt;td bgcolor=&#34;#4169e1&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;dodgerblue&lt;td&gt;#1E90FF&lt;td bgcolor=&#34;#1e90ff&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;cornflowerblue&lt;td&gt;#6495ED&lt;td bgcolor=&#34;#6495ed&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;deepskyblue&lt;td&gt;#00BFFF&lt;td bgcolor=&#34;#00bfff&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lightskyblue&lt;td&gt;#87CEFA&lt;td bgcolor=&#34;#87cefa&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lightsteelblue&lt;td&gt;#B0C4DE&lt;td bgcolor=&#34;#b0c4de&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lightblue&lt;td&gt;#ADD8E6&lt;td bgcolor=&#34;#add8e6&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;steelblue&lt;td&gt;#4682B4&lt;td bgcolor=&#34;#4682b4&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkcyan&lt;td&gt;#008B8B&lt;td bgcolor=&#34;#008b8b&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;cadetblue&lt;td&gt;#5F9EA0&lt;td bgcolor=&#34;#5f9ea0&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkturquoise&lt;td&gt;#00CED1&lt;td bgcolor=&#34;#00ced1&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;mediumturquoise&lt;td&gt;#48D1CC&lt;td bgcolor=&#34;#48d1cc&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;turquoise&lt;td&gt;#40E0D0&lt;td bgcolor=&#34;#40e0d0&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;skyblue&lt;td&gt;#87CECB&lt;td bgcolor=&#34;#87cecb&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;powderblue&lt;td&gt;#B0E0E6&lt;td bgcolor=&#34;#b0e0e6&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;paleturquoise&lt;td&gt;#AFEEEE&lt;td bgcolor=&#34;#afeeee&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lightcyan&lt;td&gt;#E0FFFF&lt;td bgcolor=&#34;#e0ffff&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;azure&lt;td&gt;#F0FFFF&lt;td bgcolor=&#34;#f0ffff&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;aliceblue&lt;td&gt;#F0F8FF&lt;td bgcolor=&#34;#f0f8ff&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;aqua(cyan)&lt;td&gt;#00FFFF&lt;td bgcolor=&#34;#00ffff&#34;&gt;　&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;黑~灰~白&lt;br&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;th width=&#34;130&#34;&gt;顏色名稱&lt;th width=&#34;80&#34;&gt;代碼&lt;th width=&#34;80&#34;&gt;&lt;p align=&#34;center&#34;&gt;顏色&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;black&lt;td&gt;#000000&lt;td bgcolor=&#34;#000000&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;dimgray&lt;td&gt;#696969&lt;td bgcolor=&#34;#696969&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;gray&lt;td&gt;#808080&lt;td bgcolor=&#34;#808080&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;slategray&lt;td&gt;#708090&lt;td bgcolor=&#34;#708090&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lightslategray&lt;td&gt;#778899&lt;td bgcolor=&#34;#778899&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;darkgray&lt;td&gt;#A9A9A9&lt;td bgcolor=&#34;#a9a9a9&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;silver&lt;td&gt;#C0C0C0&lt;td bgcolor=&#34;#c0c0c0&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lightgray&lt;td&gt;#D3D3D3&lt;td bgcolor=&#34;#d3d3d3&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;gainsboro&lt;td&gt;#DCDCDC&lt;td bgcolor=&#34;#dcdcdc&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;whitesmoke&lt;td&gt;#F5F5F5&lt;td bgcolor=&#34;#f5f5f5&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ghostwhite&lt;td&gt;#F8F8FF&lt;td bgcolor=&#34;#f8f8ff&#34;&gt;　&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;white&lt;td&gt;#FFFFFF&lt;td bgcolor=&#34;#ffffff&#34;&gt;　&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;p&gt;以顏色名稱的字母順序排列&lt;/p&gt;
+&lt;table border=0&gt;
+&lt;tr&gt;
+&lt;td bgcolor=aliceblue&gt;aliceblue
+&lt;td bgcolor=antiquewhite&gt;antiquewhite
+&lt;td bgcolor=aqua&gt;aqua
+&lt;td bgcolor=aquamarine&gt;aquamarine
+&lt;tr&gt;
+&lt;td bgcolor=azure&gt;azure
+&lt;td bgcolor=beige&gt;beige
+&lt;td bgcolor=bisque&gt;bisque
+&lt;td bgcolor=black&gt;black
+&lt;tr&gt;
+&lt;td bgcolor=blanchedalmond&gt;blanchedalmond
+&lt;td bgcolor=blue&gt;blue
+&lt;td bgcolor=blueviolet&gt;blueviolet
+&lt;td bgcolor=brown&gt;brown
+&lt;tr&gt;
+&lt;td bgcolor=burlywood&gt;burlywood
+&lt;td bgcolor=cadetblue&gt;cadetblue
+&lt;td bgcolor=chartreuse&gt;chartreuse
+&lt;td bgcolor=chocolate&gt;chocolate
+&lt;tr&gt;
+&lt;td bgcolor=coral&gt;coral
+&lt;td bgcolor=cornflowerblue&gt;cornflowerblue
+&lt;td bgcolor=cornsilk&gt;cornsilk
+&lt;td bgcolor=crimson&gt;crimson
+&lt;tr&gt;
+&lt;td bgcolor=cyan&gt;cyan
+&lt;td bgcolor=darkblue&gt;darkblue
+&lt;td bgcolor=darkcyan&gt;darkcyan
+&lt;td bgcolor=darkgoldenrod&gt;darkgoldenrod
+&lt;tr&gt;
+&lt;td bgcolor=darkgray&gt;darkgray
+&lt;td bgcolor=darkgreen&gt;darkgreen
+&lt;td bgcolor=darkkhaki&gt;darkkhaki
+&lt;td bgcolor=darkmagenta&gt;darkmagenta
+&lt;tr&gt;
+&lt;td bgcolor=darkolivegreen&gt;darkolivegreen
+&lt;td bgcolor=darkorange&gt;darkorange
+&lt;td bgcolor=darkorchid&gt;darkorchid
+&lt;td bgcolor=darkred&gt;darkred
+&lt;tr&gt;
+&lt;td bgcolor=darksalmon&gt;darksalmon
+&lt;td bgcolor=darkseagreen&gt;darkseagreen
+&lt;td bgcolor=darkslateblue&gt;darkslateblue
+&lt;td bgcolor=darkslategray&gt;darkslategray
+&lt;tr&gt;
+&lt;td bgcolor=darkturquoise&gt;darkturquoise
+&lt;td bgcolor=darkviolet&gt;darkviolet
+&lt;td bgcolor=deeppink&gt;deeppink
+&lt;td bgcolor=deepskyblue&gt;deepskyblue
+&lt;tr&gt;
+&lt;td bgcolor=dimgray&gt;dimgray
+&lt;td bgcolor=dodgerblue&gt;dodgerblue
+&lt;td bgcolor=firebrick&gt;firebrick
+&lt;td bgcolor=floralwhite&gt;floralwhite
+&lt;tr&gt;
+&lt;td bgcolor=forestgreen&gt;forestgreen
+&lt;td bgcolor=fuchsia&gt;fuchsia
+&lt;td bgcolor=gainsboro&gt;gainsboro
+&lt;td bgcolor=ghostwhite&gt;ghostwhite
+&lt;tr&gt;
+&lt;td bgcolor=gold&gt;gold
+&lt;td bgcolor=goldnrod&gt;goldnrod
+&lt;td bgcolor=gray&gt;gray
+&lt;td bgcolor=green&gt;green
+&lt;tr&gt;
+&lt;td bgcolor=greenyellow&gt;greenyellow
+&lt;td bgcolor=honeydew&gt;honeydew
+&lt;td bgcolor=hotpink&gt;hotpink
+&lt;td bgcolor=indianred&gt;indianred
+&lt;tr&gt;
+&lt;td bgcolor=indigo&gt;indigo
+&lt;td bgcolor=ivory&gt;ivory
+&lt;td bgcolor=khaki&gt;khaki
+&lt;td bgcolor=lavender&gt;lavender
+&lt;tr&gt;
+&lt;td bgcolor=lavenderblush&gt;lavenderblush
+&lt;td bgcolor=lawngreen&gt;lawngreen
+&lt;td bgcolor=lemonchiffon&gt;lemonchiffon
+&lt;td bgcolor=lightblue&gt;lightblue
+&lt;tr&gt;
+&lt;td bgcolor=lightcoral&gt;lightcoral
+&lt;td bgcolor=lightcyan&gt;lightcyan
+&lt;td bgcolor=lightgoldenrodyellow&gt;lightgoldenrodyellow
+&lt;td bgcolor=lightgreen&gt;lightgreen
+&lt;tr&gt;
+&lt;td bgcolor=lightgrey&gt;lightgrey
+&lt;td bgcolor=lightpink&gt;lightpink
+&lt;td bgcolor=lightsalmon&gt;lightsalmon
+&lt;td bgcolor=lightseagreen&gt;lightseagreen
+&lt;tr&gt;
+&lt;td bgcolor=lightskyblue&gt;lightskyblue
+&lt;td bgcolor=lightslategray&gt;lightslategray
+&lt;td bgcolor=lightsteelblue&gt;lightsteelblue
+&lt;td bgcolor=lightyellow&gt;lightyellow
+&lt;tr&gt;
+&lt;td bgcolor=lime&gt;lime
+&lt;td bgcolor=limegreen&gt;limegreen
+&lt;td bgcolor=linen&gt;linen
+&lt;td bgcolor=magenta&gt;magenta
+&lt;tr&gt;
+&lt;td bgcolor=maroon&gt;maroon
+&lt;td bgcolor=mediumaquamarine&gt;mediumaquamarine
+&lt;td bgcolor=mediumblue&gt;mediumblue
+&lt;td bgcolor=mediumorchid&gt;mediumorchid
+&lt;tr&gt;
+&lt;td bgcolor=mediumpurple&gt;mediumpurple
+&lt;td bgcolor=mediumseagreen&gt;mediumseagreen
+&lt;td bgcolor=mediumslateblue&gt;mediumslateblue
+&lt;td bgcolor=mediumspringgreen&gt;mediumspringgreen
+&lt;tr&gt;
+&lt;td bgcolor=mediumturquoise&gt;mediumturquoise
+&lt;td bgcolor=mediumvioletred&gt;mediumvioletred
+&lt;td bgcolor=midlightblue&gt;midlightblue
+&lt;td bgcolor=mintcream&gt;mintcream
+&lt;tr&gt;
+&lt;td bgcolor=mistyrose&gt;mistyrose
+&lt;td bgcolor=moccasin&gt;moccasin
+&lt;td bgcolor=navajowhite&gt;navajowhite
+&lt;td bgcolor=navy&gt;navy
+&lt;tr&gt;
+&lt;td bgcolor=oldlace&gt;oldlace
+&lt;td bgcolor=olive&gt;olive
+&lt;td bgcolor=olivedrab&gt;olivedrab
+&lt;td bgcolor=orange&gt;orange
+&lt;tr&gt;
+&lt;td bgcolor=orangered&gt;orangered
+&lt;td bgcolor=orchid&gt;orchid
+&lt;td bgcolor=palegoldenrod&gt;palegoldenrod
+&lt;td bgcolor=palegreen&gt;palegreen
+&lt;tr&gt;
+&lt;td bgcolor=paleturquoise&gt;paleturquoise
+&lt;td bgcolor=palevioletred&gt;palevioletred
+&lt;td bgcolor=papaywhip&gt;papaywhip
+&lt;td bgcolor=peachpuff&gt;peachpuff
+&lt;tr&gt;
+&lt;td bgcolor=peru&gt;peru
+&lt;td bgcolor=pink&gt;pink
+&lt;td bgcolor=plum&gt;plum
+&lt;td bgcolor=powderblue&gt;powderblue
+&lt;tr&gt;
+&lt;td bgcolor=purple&gt;purple
+&lt;td bgcolor=red&gt;red
+&lt;td bgcolor=rosybrown&gt;rosybrown
+&lt;td bgcolor=royalblue&gt;royalblue
+&lt;tr&gt;
+&lt;td bgcolor=saddlebrown&gt;saddlebrown
+&lt;td bgcolor=salmon&gt;salmon
+&lt;td bgcolor=sandybrown&gt;sandybrown
+&lt;td bgcolor=seagreen&gt;seagreen
+&lt;tr&gt;
+&lt;td bgcolor=seashell&gt;seashell
+&lt;td bgcolor=sienna&gt;sienna
+&lt;td bgcolor=silver&gt;silver
+&lt;td bgcolor=skyblue&gt;skyblue
+&lt;tr&gt;
+&lt;td bgcolor=slateblue&gt;slateblue
+&lt;td bgcolor=slategray&gt;slategray
+&lt;td bgcolor=snow&gt;snow
+&lt;td bgcolor=springgreen&gt;springgreen
+&lt;tr&gt;
+&lt;td bgcolor=steelblue&gt;steelblue
+&lt;td bgcolor=tan&gt;tan
+&lt;td bgcolor=teal&gt;teal
+&lt;td bgcolor=thistle&gt;thistle
+&lt;tr&gt;
+&lt;td bgcolor=tomato&gt;tomato
+&lt;td bgcolor=turquoise&gt;turquoise
+&lt;td bgcolor=violet&gt;violet
+&lt;td bgcolor=wheat&gt;wheat
+&lt;tr&gt;
+&lt;td bgcolor=white&gt;white
+&lt;td bgcolor=whitesmoke&gt;whitesmoke
+&lt;td bgcolor=yellow&gt;yellow
+&lt;td bgcolor=yellowgreen&gt;yellowgreen
+&lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;
 </description>
       
     </item>

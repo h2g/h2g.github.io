@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html on 常常喜樂</title>
+    <link>https://h2g.github.io/categories/html/</link>
+    <description>Recent content in Html on 常常喜樂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Jan 2019 14:22:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://h2g.github.io/categories/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Html - 色碼表</title>
+      <link>https://h2g.github.io/post/html/colorcode/</link>
+      <pubDate>Thu, 03 Jan 2019 14:22:20 +0800</pubDate>
+      
+      <guid>https://h2g.github.io/post/html/colorcode/</guid>
+      <description>Color code table 色碼表 色 碼 表 以十六進位值排列 &amp;lt;font color=&amp;ldquo;#RRGGBB&amp;rdquo;&amp;gt; #FFFFFF #DDDDDD #AAAAAA #888888 #666666 #444444 #000000 #FFB7DD #FF88C2 #FF44AA #FF0088 #C10066 #A20055 #8C0044 #FFCCCC #FF8888 #FF3333 #FF0000 #CC0000 #AA0000 #880000 #FFC8B4 #FFA488 #FF7744 #FF5511 #E63F00 #C63300 #A42D00 #FFDDAA #FFBB66 #FFAA33 #FF8800 #EE7700 #CC6600 #BB5500 #FFEE99 #FFDD55 #FFCC22 #FFBB00 #DDAA00 #AA7700 #886600 #FFFFBB #FFFF77 #FFFF33 #FFFF00 #EEEE00 #BBBB00 #888800 #EEFFBB #DDFF77</description>
+    </item>
+    
+  </channel>
+</rss>
