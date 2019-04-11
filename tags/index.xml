@@ -6,10 +6,28 @@
     <description>Recent content in Tags on 常常喜樂</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Jan 2019 15:10:20 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jan 2019 09:21:20 +0800</lastBuildDate>
     
 	<atom:link href="https://h2g.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bible Life</title>
+      <link>https://h2g.github.io/tags/bible-life/</link>
+      <pubDate>Sat, 05 Jan 2019 09:21:20 +0800</pubDate>
+      
+      <guid>https://h2g.github.io/tags/bible-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bible Study</title>
+      <link>https://h2g.github.io/tags/bible-study/</link>
+      <pubDate>Fri, 04 Jan 2019 08:21:20 +0800</pubDate>
+      
+      <guid>https://h2g.github.io/tags/bible-study/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Css</title>
@@ -71,24 +89,6 @@
       <pubDate>Sun, 25 Nov 2018 14:21:20 +0800</pubDate>
       
       <guid>https://h2g.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scripture Interpretation</title>
-      <link>https://h2g.github.io/tags/scripture-interpretation/</link>
-      <pubDate>Fri, 04 Jan 2019 08:21:20 +0800</pubDate>
-      
-      <guid>https://h2g.github.io/tags/scripture-interpretation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scripture Study</title>
-      <link>https://h2g.github.io/tags/scripture-study/</link>
-      <pubDate>Sat, 05 Jan 2019 09:21:20 +0800</pubDate>
-      
-      <guid>https://h2g.github.io/tags/scripture-study/</guid>
       <description></description>
     </item>
     
