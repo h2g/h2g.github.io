@@ -248,6 +248,20 @@
   </url>
   
   <url>
+    <loc>https://h2g.github.io/post/bible-study/%E7%A5%9E%E8%AA%AA/</loc>
+    <lastmod>2018-12-06T09:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://h2g.github.io/post/bible-study/%E8%81%96%E7%B4%84/</loc>
+    <lastmod>2018-12-05T09:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://h2g.github.io/post/bible-study/%E5%BE%9E%E5%B0%8F%E6%98%8E%E7%99%BD%E8%81%96%E7%B6%93/</loc>
     <lastmod>2018-12-04T09:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -297,13 +311,6 @@
   </url>
   
   <url>
-    <loc>https://h2g.github.io/categories/bible-life/</loc>
-    <lastmod>2019-01-03T09:21:20+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://h2g.github.io/tags/bible-life/</loc>
     <lastmod>2019-01-03T09:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -311,14 +318,21 @@
   </url>
   
   <url>
-    <loc>https://h2g.github.io/categories/bible-study/</loc>
-    <lastmod>2019-01-05T15:21:20+08:00</lastmod>
+    <loc>https://h2g.github.io/categories/bible-life/</loc>
+    <lastmod>2019-01-03T09:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://h2g.github.io/tags/bible-study/</loc>
+    <lastmod>2019-01-05T15:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h2g.github.io/categories/bible-study/</loc>
     <lastmod>2019-01-05T15:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -332,13 +346,6 @@
   </url>
   
   <url>
-    <loc>https://h2g.github.io/categories/css/</loc>
-    <lastmod>2019-01-03T15:10:20+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://h2g.github.io/tags/css/</loc>
     <lastmod>2019-01-03T15:10:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -346,8 +353,8 @@
   </url>
   
   <url>
-    <loc>https://h2g.github.io/categories/essay/</loc>
-    <lastmod>2019-01-05T09:21:20+08:00</lastmod>
+    <loc>https://h2g.github.io/categories/css/</loc>
+    <lastmod>2019-01-03T15:10:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -360,8 +367,8 @@
   </url>
   
   <url>
-    <loc>https://h2g.github.io/categories/git/</loc>
-    <lastmod>2018-11-25T14:21:20+08:00</lastmod>
+    <loc>https://h2g.github.io/categories/essay/</loc>
+    <lastmod>2019-01-05T09:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -374,8 +381,8 @@
   </url>
   
   <url>
-    <loc>https://h2g.github.io/categories/greek/</loc>
-    <lastmod>2018-12-28T14:22:20+08:00</lastmod>
+    <loc>https://h2g.github.io/categories/git/</loc>
+    <lastmod>2018-11-25T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -388,8 +395,8 @@
   </url>
   
   <url>
-    <loc>https://h2g.github.io/categories/hebrew/</loc>
-    <lastmod>2018-12-28T14:21:20+08:00</lastmod>
+    <loc>https://h2g.github.io/categories/greek/</loc>
+    <lastmod>2018-12-28T14:22:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -402,8 +409,8 @@
   </url>
   
   <url>
-    <loc>https://h2g.github.io/categories/html/</loc>
-    <lastmod>2019-01-03T14:22:20+08:00</lastmod>
+    <loc>https://h2g.github.io/categories/hebrew/</loc>
+    <lastmod>2018-12-28T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -416,14 +423,21 @@
   </url>
   
   <url>
-    <loc>https://h2g.github.io/categories/hugo/</loc>
-    <lastmod>2018-11-25T14:21:20+08:00</lastmod>
+    <loc>https://h2g.github.io/categories/html/</loc>
+    <lastmod>2019-01-03T14:22:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://h2g.github.io/tags/hugo/</loc>
+    <lastmod>2018-11-25T14:21:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://h2g.github.io/categories/hugo/</loc>
     <lastmod>2018-11-25T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -444,14 +458,14 @@
   </url>
   
   <url>
-    <loc>https://h2g.github.io/categories/windows/</loc>
+    <loc>https://h2g.github.io/tags/windows/</loc>
     <lastmod>2018-11-25T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://h2g.github.io/tags/windows/</loc>
+    <loc>https://h2g.github.io/categories/windows/</loc>
     <lastmod>2018-11-25T14:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -479,14 +493,14 @@
   </url>
   
   <url>
-    <loc>https://h2g.github.io/categories/%E5%93%A5%E6%9E%97%E5%A4%9A%E5%BE%8C%E6%9B%B8/</loc>
+    <loc>https://h2g.github.io/tags/%E5%93%A5%E6%9E%97%E5%A4%9A%E5%BE%8C%E6%9B%B8/</loc>
     <lastmod>2019-01-03T09:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://h2g.github.io/tags/%E5%93%A5%E6%9E%97%E5%A4%9A%E5%BE%8C%E6%9B%B8/</loc>
+    <loc>https://h2g.github.io/categories/%E5%93%A5%E6%9E%97%E5%A4%9A%E5%BE%8C%E6%9B%B8/</loc>
     <lastmod>2019-01-03T09:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -521,14 +535,14 @@
   </url>
   
   <url>
-    <loc>https://h2g.github.io/categories/%E6%8F%90%E6%91%A9%E5%A4%AA%E5%BE%8C%E6%9B%B8/</loc>
+    <loc>https://h2g.github.io/tags/%E6%8F%90%E6%91%A9%E5%A4%AA%E5%BE%8C%E6%9B%B8/</loc>
     <lastmod>2018-12-09T09:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://h2g.github.io/tags/%E6%8F%90%E6%91%A9%E5%A4%AA%E5%BE%8C%E6%9B%B8/</loc>
+    <loc>https://h2g.github.io/categories/%E6%8F%90%E6%91%A9%E5%A4%AA%E5%BE%8C%E6%9B%B8/</loc>
     <lastmod>2018-12-09T09:21:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
